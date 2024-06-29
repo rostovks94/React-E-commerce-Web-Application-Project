@@ -25,7 +25,7 @@ Admin features for creating, updating, and deleting products.
 Automated stock management for products. Running the Project Locally
 To run this project locally, follow these steps:
 
-** Clone the Repository: **
+**Clone the Repository:**
 
 https://github.com/rostovks94/React-E-commerce-Web-Application-Project.git
 
