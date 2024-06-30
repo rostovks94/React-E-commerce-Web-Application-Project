@@ -7,14 +7,15 @@ Smart Shopping E-commerce Application Project is a web application designed to p
 This project was completed as part of a bootcamp training program, demonstrating the practical application of skills learned in web development, including front-end and back-end technologies.
 
 ## Feauters 
-**-Product Browsing:**
-	•	View a list of available products.
-	•	Detailed product information, including images, prices, and descriptions.
-	•	Search and filter products by name, category, or price.
-**-Shopping Cart:**
-	•	Add products to the cart with a selected quantity.
-	•	View and manage items in the cart.
-	•	Update quantities or remove items from the cart.
+
+**Product Browsing:**
+	- View a list of available products.
+	- Detailed product information, including images, prices, and descriptions.
+	- Search and filter products by name, category, or price.
+**Shopping Cart:**
+	- Add products to the cart with a selected quantity.
+	- View and manage items in the cart.
+	- Update quantities or remove items from the cart.
 	3.	Order Management:
 	•	Place orders with a summary of items, total price, and order details.
 	•	View order history with detailed order information.
