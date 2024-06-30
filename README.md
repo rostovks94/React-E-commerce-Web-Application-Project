@@ -70,7 +70,10 @@ The primary goal of this project was to create a comprehensive e-commerce platfo
 - Admin features for creating, updating, and deleting products.
 - Automated stock management for products. Running the Project Locally
 
-## To run this project locally, follow these steps:
+
+## Running the Project Locally:
+
+To run this project locally, follow these steps:
 
 **Clone the Repository:**
 
