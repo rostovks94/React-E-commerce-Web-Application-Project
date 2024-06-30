@@ -3,8 +3,8 @@
 ## Overview
 
 Smart Shopping E-commerce Application Project is a web application designed to provide users with an efficient and user-friendly online shopping experience. The application allows users to browse products, view detailed product information, add products to their cart, and manage their orders. This project was built with the aim of delivering a seamless and interactive shopping platform for both customers and administrators.
-
 This project was completed as part of a bootcamp training program, demonstrating the practical application of skills learned in web development, including front-end and back-end technologies.
+
 
 ## Feauters 
 
