@@ -9,38 +9,38 @@ This project was completed as part of a bootcamp training program, demonstrating
 ## Feauters 
 
 **Product Browsing:**
-	- View a list of available products.
-	- Detailed product information, including images, prices, and descriptions.
-	- Search and filter products by name, category, or price.
+- View a list of available products.
+- Detailed product information, including images, prices, and descriptions.
+- Search and filter products by name, category, or price.
 **Shopping Cart:**
 - Add products to the cart with a selected quantity.
-	- View and manage items in the cart.
-	- Update quantities or remove items from the cart.
-	3.	Order Management:
-	•	Place orders with a summary of items, total price, and order details.
-	•	View order history with detailed order information.
-	•	Cancel orders if needed.
-	4.	Customer Management:
-	•	Create new customer profiles with name, email, and phone number.
-	•	Update existing customer information.
-	•	View a list of all customers and access their details.
-	5.	Admin Features:
-	•	Add new products to the inventory.
-	•	Update existing product information, including stock levels.
-	•	Delete products from the inventory.
-	•	Automated stock management for low inventory alerts and updates.
-	6.	Responsive Design:
-	•	Fully responsive layout compatible with various devices and screen sizes.
-	•	User-friendly interface designed with React-Bootstrap.
-	7.	Notifications:
-	•	Toast notifications for actions such as adding items to the cart, placing orders, and updating information.
-	8.	Local Storage:
-	•	Save and retrieve cart items, customer details, orders, and product information using local storage for persistent data.
-	9.	Order Form:
-	•	Capture customer details such as name, email, address, and phone number for order placement.
-	•	Validate form inputs for accurate order processing.
-	10.	Modals:
-	•	Confirmation modals for actions like creating a customer or updating product stock.
+- View and manage items in the cart.
+- Update quantities or remove items from the cart.
+**Order Management:**
+- Place orders with a summary of items, total price, and order details.
+- View order history with detailed order information.
+- Cancel orders if needed.
+**Customer Management:**
+- Create new customer profiles with name, email, and phone number.
+- Update existing customer information.
+- View a list of all customers and access their details.
+**Admin Features:**
+- Add new products to the inventory.
+- Update existing product information, including stock levels.
+- Delete products from the inventory.
+- Automated stock management for low inventory alerts and updates.
+**Responsive Design:**
+- Fully responsive layout compatible with various devices and screen sizes.
+- User-friendly interface designed with React-Bootstrap.
+**Notifications:**
+- Toast notifications for actions such as adding items to the cart, placing orders, and updating information.
+**Local Storage:**
+- Save and retrieve cart items, customer details, orders, and product information using local storage for persistent data.
+**Order Form:**
+- Capture customer details such as name, email, address, and phone number for order placement.
+- Validate form inputs for accurate order processing.
+**Modals:**
+- Confirmation modals for actions like creating a customer or updating product stock.
 
 ## Technologies Used
 
@@ -67,11 +67,25 @@ The primary goal of this project was to create a comprehensive e-commerce platfo
 
 https://github.com/rostovks94/React-E-commerce-Web-Application-Project.git
 
-Navigate to the Project Directory: cd smart-shopping
-Install Dependencies: npm install
-Start the Development Server: npm start
-Open the Application: Navigate to http://localhost:3000 in your web browser.
-Using a Local Web Server (optional but recommended): If you encounter any CORS issues or need a more stable local environment, you can use a local web server.
+**Navigate to the Project Directory:**
+
+cd smart-shopping
+
+**Install Dependencies:**
+
+npm install
+
+**Start the Development Server:**
+
+npm start
+
+**Open the Application:**
+
+Navigate to http://localhost:3000 in your web browser.
+
+**Using a Local Web Server (optional but recommended):**
+
+If you encounter any CORS issues or need a more stable local environment, you can use a local web server.
 
 **For Python 3.x:**
 
