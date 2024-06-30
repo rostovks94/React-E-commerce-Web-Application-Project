@@ -12,35 +12,42 @@ This project was completed as part of a bootcamp training program, demonstrating
 - View a list of available products.
 - Detailed product information, including images, prices, and descriptions.
 - Search and filter products by name, category, or price.
+  
 **Shopping Cart:**
 - Add products to the cart with a selected quantity.
 - View and manage items in the cart.
 - Update quantities or remove items from the cart.
+- 
 **Order Management:**
-  
 - Place orders with a summary of items, total price, and order details.
 - View order history with detailed order information.
 - Cancel orders if needed.
+- 
 **Customer Management:**
-  
 - Create new customer profiles with name, email, and phone number.
 - Update existing customer information.
 - View a list of all customers and access their details.
+  
 **Admin Features:**
 - Add new products to the inventory.
 - Update existing product information, including stock levels.
 - Delete products from the inventory.
 - Automated stock management for low inventory alerts and updates.
+  
 **Responsive Design:**
 - Fully responsive layout compatible with various devices and screen sizes.
 - User-friendly interface designed with React-Bootstrap.
+  
 **Notifications:**
 - Toast notifications for actions such as adding items to the cart, placing orders, and updating information.
+  
 **Local Storage:**
 - Save and retrieve cart items, customer details, orders, and product information using local storage for persistent data.
+  
 **Order Form:**
 - Capture customer details such as name, email, address, and phone number for order placement.
 - Validate form inputs for accurate order processing.
+  
 **Modals:**
 - Confirmation modals for actions like creating a customer or updating product stock.
 
