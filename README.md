@@ -13,7 +13,7 @@ This project was completed as part of a bootcamp training program, demonstrating
 	- Detailed product information, including images, prices, and descriptions.
 	- Search and filter products by name, category, or price.
 **Shopping Cart:**
-	- Add products to the cart with a selected quantity.
+- Add products to the cart with a selected quantity.
 	- View and manage items in the cart.
 	- Update quantities or remove items from the cart.
 	3.	Order Management:
