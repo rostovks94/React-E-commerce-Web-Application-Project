@@ -154,3 +154,5 @@ smart-shopping/
 ## Conclusion
 
 This project demonstrates the use of React, React-Bootstrap, JavaScript, HTML, and CSS to create a functional and interactive e-commerce application. The project can be easily extended to include more advanced features such as user authentication, payment processing, and enhanced product management functionalities.
+
+Feel free to reach out if you have any questions or suggestions.
