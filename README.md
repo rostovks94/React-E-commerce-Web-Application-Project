@@ -17,10 +17,12 @@ This project was completed as part of a bootcamp training program, demonstrating
 - View and manage items in the cart.
 - Update quantities or remove items from the cart.
 **Order Management:**
+  
 - Place orders with a summary of items, total price, and order details.
 - View order history with detailed order information.
 - Cancel orders if needed.
 **Customer Management:**
+  
 - Create new customer profiles with name, email, and phone number.
 - Update existing customer information.
 - View a list of all customers and access their details.
